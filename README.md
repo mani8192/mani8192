@@ -1,3 +1,11 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mani8192&label=Profile%20views&color=0e75b6&style=flat" alt="mani8192" /> </p>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mani8192" alt="mani8192" /></a> </p> -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mani8192/your-repo/main/mmy-img.jpg" width="150" style="border-radius:50%;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Manish Tiwari</h1>
 <h3 align="center">Frontend Developer | Aspiring Data Analyst | India 🇮🇳</h3>
 
@@ -17,9 +25,6 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mani8192&label=Profile%20views&color=0e75b6&style=flat" alt="mani8192" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mani8192" alt="mani8192" /></a> </p>
 
 <h2>🌐 Connect with me</h2>
 
