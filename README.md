@@ -5,7 +5,8 @@
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/196340399?v=4" 
        width="120" 
-       style="border-radius:50%; border:2px solid black;" />
+       height="120"
+       style="border-radius:50%; object-fit:cover; border:2px solid black;" />
 </p>
 
 </p>
