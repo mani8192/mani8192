@@ -209,7 +209,7 @@ Python, Pandas, NumPy, Data Visualization, and Power BI.
 
 <p><b>Platform:</b> Your Platform Name</p>
 
-<a href="C:\Users\manish tiwari\OneDrive\Attachments\my-certificate.pdf">🔗 View Certificate</a>
+<a href="https://coursera.org/share/a7ed80fda0f0e9e94731b360dd60637f">🔗 View Certificate</a>
 
 </td>
 
