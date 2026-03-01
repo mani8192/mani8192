@@ -38,6 +38,7 @@
     <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" 
          width="40" 
          style="border-radius:50%;" />
+   <h6>Linkdin</h6>
   </a>
 </p>
 
