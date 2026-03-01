@@ -2,10 +2,12 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mani8192" alt="mani8192" /></a> </p> -->
 
-<p align="center" style="margin-top:20px; margin-bottom:20px;">
+<p align="left">
   <img src="https://avatars.githubusercontent.com/u/196340399?v=4" 
-       width="150" 
-       style="border-radius:50%; border:2px solid black; padding:5px;" />
+       width="120" 
+       style="border-radius:50%; border:2px solid black;" />
+</p>
+
 </p>
 <h1 align="center">Hi 👋, I'm Manish Tiwari</h1>
 <h3 align="center">Frontend Developer | Aspiring Data Analyst | India 🇮🇳</h3>
