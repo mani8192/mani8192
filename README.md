@@ -9,13 +9,17 @@
 
 <h2>👨‍💻 About Me</h2>
 
-- 🎓 BCA Student (3rd Year)
+- 🎓 BCA Student 
 - 💻 Frontend Developer (HTML, CSS, JS, React)
-- 📊 Learning Data Analysis (Python, SQL, Power BI)
-- 🎯 Goal: Job-ready Developer + Analyst
+- 📊  Data Analysis (Python, SQL, Power BI , Excel)
+- 🎯 Goal: Job-ready Devloper +  Analyst
 - 🚀 Currently building real-world projects
 
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mani8192&label=Profile%20views&color=0e75b6&style=flat" alt="mani8192" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mani8192" alt="mani8192" /></a> </p>
 
 <h2>🌐 Connect with me</h2>
 
