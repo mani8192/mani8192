@@ -33,6 +33,13 @@
 
 
 <h2>🌐 Connect with me</h2>
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" 
+         width="40" 
+         style="border-radius:50%;" />
+  </a>
+</p>
 
 <p>
   <!-- Add your LinkedIn / Instagram later -->
