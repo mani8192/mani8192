@@ -1,7 +1,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mani8192&label=Profile%20views&color=0e75b6&style=flat" alt="mani8192" /> </p> 
 
-<h> my profile picture</h>
+<!-- <h> my profile picture</h> -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mani8192" alt="mani8192" /></a> </p> -->
 
 <!-- <p align="left">
@@ -178,19 +178,16 @@ Mention dataset and outcome.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mani8192&layout=compact" />
 </p> -->
+<h2>📊 GitHub Activity</h2>
 
-<h2> GitHub Activity</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mani8192&theme=github-compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mani8192&show_icons=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mani8192" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mani8192&layout=compact" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mani8192&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mani8192" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mani8192&layout=compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mani8192&theme=github-compact" height="180"/>
 </p>
 
 ---
