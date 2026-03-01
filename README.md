@@ -3,7 +3,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mani8192" alt="mani8192" /></a> </p> -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mani8192/REPO-NAME/main/mmy-img.jpg" width="150" />
+  <img src="https://picsum.photos/200" width="150" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Manish Tiwari</h1>
