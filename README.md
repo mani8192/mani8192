@@ -71,6 +71,7 @@
 
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></a>
+<br>
 
 <!-- Data Analysis -->
 <a href="https://pandas.pydata.org/" target="_blank">
@@ -99,6 +100,73 @@
 
 ---
 
+<h2>📊 Data Analysis Projects</h2>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+<h3>📊 Project Title</h3>
+
+<img src="https://img.icons8.com/color/48/combo-chart.png" width="40"/>
+
+<p>
+Short description of your project.  
+Explain what problem you solved and tools used.
+</p>
+
+<p>
+<b>Tools:</b> Python, Pandas, Power BI
+</p>
+
+<a href="#">🔗 View Project</a><br>
+<a href="#">💻 Source Code</a>
+
+</td>
+
+<td width="33%" valign="top">
+<h3>📊 Project Title</h3>
+
+<img src="https://img.icons8.com/color/48/data-configuration.png" width="40"/>
+
+<p>
+Short description of your project.  
+Explain insights and analysis.
+</p>
+
+<p>
+<b>Tools:</b> Excel, SQL, Power BI
+</p>
+
+<a href="#">🔗 View Project</a><br>
+<a href="#">💻 Source Code</a>
+
+</td>
+
+<td width="33%" valign="top">
+<h3>📊 Project Title</h3>
+
+<img src="https://img.icons8.com/color/48/statistics.png" width="40"/>
+
+<p>
+Short description of your project.  
+Mention dataset and outcome.
+</p>
+
+<p>
+<b>Tools:</b> Python, NumPy, Seaborn
+</p>
+
+<a href="#">🔗 View Project</a><br>
+<a href="#">💻 Source Code</a>
+
+</td>
+
+</tr>
+</table>
+
+
+----
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
