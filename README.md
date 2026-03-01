@@ -181,13 +181,10 @@ Mention dataset and outcome.
 <h2>📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mani8192&show_icons=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mani8192" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mani8192&layout=compact" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mani8192&theme=github-compact" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mani8192&show_icons=true" height="130"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mani8192" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mani8192&layout=compact" height="130"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mani8192&theme=github-compact" height="130"/>
 </p>
 
 ---
