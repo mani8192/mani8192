@@ -1,14 +1,15 @@
 my profile picture
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mani8192&label=Profile%20views&color=0e75b6&style=flat" alt="mani8192" /> </p> -->
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=mani8192&label=Profile%20views&color=0e75b6&style=flat" alt="mani8192" /> </p> 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mani8192" alt="mani8192" /></a> </p> -->
 
-<p align="left">
+my profile picture
+<!-- <p align="left">
   <img src="https://avatars.githubusercontent.com/u/196340399?v=4" 
        width="120" 
        height="120"
        style="border-radius:50%; object-fit:cover; border:2px solid black;" />
-</p>
+</p> -->
 
 </p>
 <h1 align="center">Hi 👋, I'm Manish Tiwari</h1>
