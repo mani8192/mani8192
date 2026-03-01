@@ -234,3 +234,28 @@ Data Analytics, Web Development, and Advanced Tools.
 </td>
 </tr>
 </table>
+
+<h2>📄 Resume</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<br>
+<h3>👨‍💻 My Resume</h3>
+<p>
+Detail overview of my skills, projects, and experience in 
+<b>Data Analysis</b> and <b>Web Development</b>.
+</p>
+<p>
+<b>Skills:</b> Python, SQL, Excel, Power BI, HTML, CSS, JavaScript  
+</p>
+<a href="YOUR_RESUME_LINK" target="_blank">🔗 View Resume</a><br>
+<a href="YOUR_RESUME_LINK" download>⬇️ Download Resume</a>
+</td>
+<td width="50%" valign="top">
+<img src="https://img.icons8.com/color/96/resume.png"/>
+</td>
+</tr>
+</table>
