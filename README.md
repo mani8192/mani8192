@@ -1,4 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mani8192&label=Profile%20views&color=0e75b6&style=flat" alt="mani8192" /> </p>
+my profile picture
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mani8192&label=Profile%20views&color=0e75b6&style=flat" alt="mani8192" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mani8192" alt="mani8192" /></a> </p> -->
 
@@ -182,6 +183,40 @@ Mention dataset and outcome.
 
 <h2>🏆 Achievements</h2>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mani8192" />
+<h2>📜 Certifications</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📊 Data Analysis Certification</h3>
+
+<img src="https://img.icons8.com/color/48/certificate.png" width="40"/>
+
+<p>
+Completed a comprehensive Data Analysis course covering:
+Python, Pandas, NumPy, Data Visualization, and Power BI.
 </p>
+
+<p><b>Platform:</b> Your Platform Name</p>
+
+<a href="YOUR_CERTIFICATE_LINK">🔗 View Certificate</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📈 More Certifications (Coming Soon)</h3>
+
+<img src="https://img.icons8.com/color/48/training.png" width="40"/>
+
+<p>
+Currently learning and planning to complete more certifications in:
+Data Analytics, Web Development, and Advanced Tools.
+</p>
+
+</td>
+
+</tr>
+</table>
