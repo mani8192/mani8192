@@ -35,10 +35,11 @@
 <h2>🌐 Connect with me</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/manish-tiwari-7ba6282b2?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <h6>Linkdin</h6>
     <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" 
          width="40" 
          style="border-radius:50%;" />
-   <h6>Linkdin</h6>
+
   </a>
 </p>
 
