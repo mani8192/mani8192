@@ -209,7 +209,7 @@ Python, Pandas, NumPy, Data Visualization, and Power BI.
 
 <p><b>Platform:</b> Your Platform Name</p>
 
-<a href="G:\my-data analyist certificate.pdf">🔗 View Certificate</a>
+<a href="C:\Users\manish tiwari\OneDrive\Attachments\my-certificate.pdf">🔗 View Certificate</a>
 
 </td>
 
