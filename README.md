@@ -34,7 +34,7 @@
 
 <h2>🌐 Connect with me</h2>
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/manish-tiwari-7ba6282b2?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" 
          width="40" 
          style="border-radius:50%;" />
