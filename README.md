@@ -156,19 +156,16 @@ Explain insights and analysis.
 
 <td width="33%" valign="top">
 <h3>📊 Project Title</h3>
-
 <img src="https://img.icons8.com/color/48/statistics.png" width="40"/>
 
 <p>
 Short description of your project.  
 Mention dataset and outcome.
 </p>
-
 <p>
 <b>Tools:</b> Python, NumPy, Seaborn
 </p>
-
-<a href="#">🔗 View Project</a><br>
+<a href="https://github.com/mani8192/Churn-Analysis-project-.git">🔗 View Project</a><br>
 <a href="#">💻 Source Code</a>
 
 </td>
